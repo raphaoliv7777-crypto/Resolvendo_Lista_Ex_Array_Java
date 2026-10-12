@@ -24,10 +24,6 @@ Cada questão da lista (em imagem, extraída do PDF) está documentada aqui, jun
 
 ---
 
-## 📋 Questões
-
-
-
 ## 🧠 Conceitos Praticados
 
 - **Vetores:** declaração, leitura, impressão, soma, média, maior/menor valor e posição
@@ -37,4 +33,17 @@ Cada questão da lista (em imagem, extraída do PDF) está documentada aqui, jun
 - **Matrizes:** laços aninhados, diagonais, transposta e matriz triangular
 - **Operações com matrizes:** soma, subtração, multiplicação e busca de valores
 - **Lógica geral:** estruturas condicionais e de repetição, contadores, acumuladores e menus
+
+---
+
+## 📋 Questões
+(imgs/1.png)
+(imgs/2.png)
+(imgs/3.png)
+(imgs/4.png)
+(imgs/5.png)
+(imgs/6.png)
+(imgs/7.png)
+
+
 
