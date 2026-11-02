@@ -37,7 +37,7 @@ Cada questão da lista (em imagem, extraída do PDF) está documentada aqui, jun
 ---
 
 ## 📋 Questões
-![Página 01](imgs/1.jpeg)
+![Página 01](imgs/1.png)
 ![Página 02](imgs/2.jpeg)
 ![Página 03](imgs/3.jpeg)
 ![Página 04](imgs/4.jpeg)
